@@ -7,7 +7,10 @@ Examiner -> Log in, Register Students (User Name & Password), Set Exam Instructi
 
 Student -> Log In, Take Exam, View Results, Log Out.
 
-2. Tech Stack:
+
+2.Tech Stack:
+
+
 HTML / CSS / JavaSript / Bootstrap
 
 Java 11 / Java EE version 8 (Jakarta EE version 8)
