@@ -43,7 +43,7 @@ Be mindful that you will need to add the following libraries to the project:
 
 How to use:
 Clone the repo.
-https://github.com/AAdewunmi/Online-Quiz-System.git
+https://github.com/Akshat-12345/quiz-application
 Database
 Start MySQL Server
 
